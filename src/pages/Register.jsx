@@ -46,7 +46,7 @@ function Register() {
     return (
             
             <div className=''>
-            <h1 className='fw-light text-center pb-3'>Register</h1>
+            <h1 className='fw-light text-center pb-3'>Login</h1>
                 {/* <FloatingLabel controlId="floatingInput1" label="Username" className="mb-3">
                     <Form.Control onChange={(e)=>setData(e)} name="username" type="email" placeholder="username" />
                 </FloatingLabel>
